@@ -26,7 +26,7 @@ __Carpeta "Ficheros":__
   
   &rarr; "datatransform.xlsx" fichero excel con los atributos finales a utilizar sobre la visualización.
   
-  &rarr; "peace_con" fichero excel con todos los acuerdos sobre los que estaba involucrado un país.
+  &rarr; "peace_con.xlsx" fichero excel con todos los acuerdos sobre los que estaba involucrado un país.
 
 __Carpeta "Tableau":__
 
