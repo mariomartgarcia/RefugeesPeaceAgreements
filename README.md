@@ -6,7 +6,7 @@ NOTE: The final document "PEC4" collects all the information about the visualiza
 
 ## Description
 
-Throughout this report, the guidelines followed for the creation of a visualisation on the peace agreements are compiled. The data will be extracted from https://www.peaceagreements.org/search where I will select refugees as a stakeholder and I will have as a fundamental objective to identify the identity of the signed agreements such as the country, the number of agreements or their basic characteristics in order to model a final visualization on the Tableau platform. The visualization obtained will be able to show the place, quantity and basic characteristics of the peace agreements with references to refugees signed between 1990 and 2019. This visualisation is developed in the UOC's _master's degree in data science_, more specifically in the subject of _Data visualisation_.
+Throughout this report, the guidelines followed for the creation of a visualisation on the peace agreements are compiled. The data will be extracted from https://www.peaceagreements.org/search where I will select refugees as a stakeholder and I will have as a fundamental objective to identify the identity of the signed agreements such as the country, the number of agreements or their basic characteristics in order to model a final visualization on the Tableau platform. The visualization obtained will be able to show the place, quantity and basic characteristics of the peace agreements with references to refugees signed between 1990 and 2019. This visualization is developed in the UOC's _master's degree in data science_, more specifically in the subject of _Data visualization_.
 
 
 ## File 
