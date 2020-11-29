@@ -1,45 +1,45 @@
-# LOS REFUGIADOS EN LOS ACUERDOS DE PAZ
-## Informe de visualización
+# REFUGEES IN THE PEACE AGREEMENTS
 
-Autor: **Mario Martínez García**.
+Author: **Mario Martínez García**.
 
-INCISO: El documento final "PEC4" que recopila toda la información sobre la visualización recibe el nombre de MARTINEZ_GARCIA_MARIO_PEC4.pdf
+NOTE: The final document "PEC4" collects all the information about the visualization and it is called MARTINEZ_GARCIA_MARIO_PEC4.pdf
 
-## Descripción
+## Description
 
-A lo largo de este informe se recopilan las directrices seguidas para la creación de una visualización sobre los acuerdos de paz. Los datos serán extraídos de https://www.peaceagreements.org/search donde seleccionaremos como grupo de interés a los refugiados y tendremos como objetivo fundamental identificar la identidad de los acuerdos firmados como el país, el número de acuerdos o sus características básicas con el fin de modelar una visualización final sobre la plataforma Tableau. La visualización obtenida será capaz de mostrar el lugar, la cantidad y las características básicas de los acuerdos de paz con referencias a refugiados firmados entre 1990 y 2019. Esta visualización se desarrolla en el _máster de ciencia de datos de la UOC_, más concretamente sobre la asignatura de _Visualización de datos_.
+Throughout this report, the guidelines followed for the creation of a visualisation on the peace agreements are compiled. The data will be extracted from https://www.peaceagreements.org/search where I will select refugees as a stakeholder and I will have as a fundamental objective to identify the identity of the signed agreements such as the country, the number of agreements or their basic characteristics in order to model a final visualization on the Tableau platform. The visualization obtained will be able to show the place, quantity and basic characteristics of the peace agreements with references to refugees signed between 1990 and 2019. This visualisation is developed in the UOC's _master's degree in data science_, more specifically in the subject of _Data visualisation_.
 
-## Ficheros 
 
-__Carpeta "Code_Python":__
+## File 
 
-  &rarr; "PEC2_CODE_MMG.ipynb" código usado sobre la PEC2.
+__Folder "Code_Python":__
 
-  &rarr; "TRANSFORM_MMG.ipynb" transformaciones finales realizadas sobre el archivo original y extracción de los países involucrados en cada acuerdo.
+  &rarr; "PEC2_CODE_MMG.ipynb" code used on PEC2.
+
+  &rarr; "TRANSFORM_MMG.ipynb" final transformations carried out on the original archive and extraction of the countries involved in each agreement.
                  
                  
-__Carpeta "Ficheros":__
+__Folder "Ficheros":__
 
-  &rarr; "pax_data_476_agreements_18-04-20.csv" fichero csv original descargado de la página https://www.peaceagreements.org/search
+  &rarr; "pax_data_476_agreements_18-04-20.csv" original csv file downloaded from the page https://www.peaceagreements.org/search
   
-  &rarr; "Country.xlsx" fichero excel creado a partir de la página https://www.iban.com/country-codes
+  &rarr; "Country.xlsx" excel file created from the page https://www.iban.com/country-codes
   
-  &rarr; "datatransform.xlsx" fichero excel con los atributos finales a utilizar sobre la visualización.
+  &rarr; "datatransform.xlsx" excel file with the final attributes to be used on the visualization.
   
-  &rarr; "peace_con.xlsx" fichero excel con todos los acuerdos sobre los que estaba involucrado un país.
+  &rarr; "peace_con.xlsx" excel file with all the agreements a country was involved in.
 
-__Carpeta "Tableau":__
+__Folder "Tableau":__
 
-  &rarr; "Refugees_PEC4.twb" archivo de tableau con la visualización final.
+  &rarr; "Refugees_PEC4.twb" tableau file with the final visualization.
   
-__Carpeta "PEC":__
+__Folder "PEC":__
 
-  &rarr; "MARTINEZ_GARCIA_MARIO_PEC2.pdf" archivo con la información de la práctica 2. 
+  &rarr; "MARTINEZ_GARCIA_MARIO_PEC2.pdf" file with the practice 2 information.
   
-  &rarr; "MARTINEZ_GARCIA_MARIO_PEC3.pdf" archivo con la información de la práctica 3.
+  &rarr; "MARTINEZ_GARCIA_MARIO_PEC3.pdf" file with the practice 3 information.
   
-  &rarr; "MARTINEZ_GARCIA_MARIO_PEC4.pdf" archivo con la información de la práctica 4. 
+  &rarr; "MARTINEZ_GARCIA_MARIO_PEC4.pdf" file with the practice 4 information.
 
-## Enlace a la visualización
+## Link to visualization
 
 https://public.tableau.com/profile/mario.mart.nez.garc.a#!/vizhome/Losrefugiadosenlosacuerdosdepaz/Dashboard1?publish=yes
