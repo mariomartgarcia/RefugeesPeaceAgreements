@@ -47,5 +47,6 @@ https://public.tableau.com/profile/mario.mart.nez.garc.a#!/vizhome/Losrefugiados
 
 
 
+![Visualizacion](https://user-images.githubusercontent.com/63496191/100551376-4cc34380-3280-11eb-803e-c0254ab0f78a.PNG)
 
 
